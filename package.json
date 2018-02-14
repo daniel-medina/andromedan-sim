@@ -1,0 +1,22 @@
+{
+  "name": "andromedan-sim",
+  "version": "0.0.1",
+  "description": "Galaxy colonisation simulation.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-medina/andromedan-sim.git"
+  },
+  "author": "Daniel Medina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniel-medina/andromedan-sim/issues"
+  },
+  "homepage": "https://github.com/daniel-medina/andromedan-sim#readme",
+  "dependencies": {
+    "electron": "^1.8.2"
+  }
+}
